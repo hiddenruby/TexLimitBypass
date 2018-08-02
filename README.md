@@ -1,2 +1,2 @@
 # TexLimitBypass
-Bypasses systemMemorySize check in MainMainController Start
+Bypasses systemMemorySize check in MainMenuController Start
